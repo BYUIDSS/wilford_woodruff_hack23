@@ -1,0 +1,5 @@
+- Use regular expressions, natural language processing, or other methods to identify and match scripture references in journal entries.
+- Create a table with the identified references for each journal entry.
+- Ensure that the output is accurate, complete, and well-organized.
+- Use best practices for code development and documentation.
+- Provide a visual interface to highlight Wilford Woodruff’s journey with scripture through his journals.
